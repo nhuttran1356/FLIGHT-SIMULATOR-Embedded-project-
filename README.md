@@ -1,3 +1,4 @@
 # FLIGHT-SIMULATOR-Embedded-project-
 
-https://user-images.githubusercontent.com/85027960/210311516-f90d3970-2371-4e16-a990-7eeb45391693.jpg
+![322531316_3444094325848285_7299664056480062127_n](https://user-images.githubusercontent.com/85027960/210311623-b89c01e8-1667-4fee-b02d-0305691c4e60.jpg)
+
